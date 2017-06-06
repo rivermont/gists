@@ -8,6 +8,9 @@ A list of all of the sovereign states, taken from Wikipedia as of 5-29-17.
 
 ## [elements.py](https://gist.github.com/rivermont/9bdc8e72e686ce72113ebd6a8680d2a8)
 
+## [euler.py](https://gist.github.com/rivermont/da7ac2fc0cfd150eb2dff936a77e3608)
+My solutions to a couple of Project Euler problems.
+
 ## [hashthing.py](https://gist.github.com/rivermont/1af004d88638f6ff89fee547bbe2206a)
 A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into numbers?
 
