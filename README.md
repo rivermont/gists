@@ -16,5 +16,8 @@ A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into n
 ## [remove-duplicates.py](https://gist.github.com/rivermont/10482553bd64f9fc82b7270a32647339)
 Simple Python script to remove duplicate lines from a file.
 
+## [worlds.txt](https://gist.github.com/rivermont/b3e92d62b1245b198278a378f4271af2)
+ASCII art of the world.
+
 ## [zip.py](https://gist.github.com/rivermont/ba873fc56a71b597c7997d371cb2effd)
 A simple script to zip some files.
