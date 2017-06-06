@@ -16,6 +16,9 @@ A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into n
 
 ## [old_crawler](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
 
+## [random.py](https://gist.github.com/rivermont/cfea7233c12dc3186adeab145bfebd37)
+A collection of completely random things I wrote years ago.
+
 ## [remove-duplicates.py](https://gist.github.com/rivermont/10482553bd64f9fc82b7270a32647339)
 Simple Python script to remove duplicate lines from a file.
 
