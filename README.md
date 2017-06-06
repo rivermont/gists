@@ -11,6 +11,8 @@ A list of all of the sovereign states, taken from Wikipedia as of 5-29-17.
 ## [hashthing.py](https://gist.github.com/rivermont/1af004d88638f6ff89fee547bbe2206a)
 A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into numbers?
 
+## [old_crawler](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
+
 ## [remove-duplicates.py](https://gist.github.com/rivermont/10482553bd64f9fc82b7270a32647339)
 Simple Python script to remove duplicate lines from a file.
 
