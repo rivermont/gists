@@ -8,7 +8,7 @@ A list of all of the sovereign states, taken from Wikipedia as of 5-29-17.
 
 ## [elements.py](https://gist.github.com/rivermont/9bdc8e72e686ce72113ebd6a8680d2a8)
 
-## [hash.py]()
+## [hashthing.py](https://gist.github.com/rivermont/1af004d88638f6ff89fee547bbe2206a)
 A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into numbers?
 
 ## [remove-duplicates.py](https://gist.github.com/rivermont/10482553bd64f9fc82b7270a32647339)
