@@ -19,6 +19,9 @@ Simple Python script to remove duplicate lines from a file.
 ## [scenes.txt](https://gist.github.com/rivermont/08a3eb9c773931d0b7bc55e568676943)
 ASCII landscapes.
 
+## [whales.txt](https://gist.github.com/rivermont/d7aa7f6e527dc98ceb6007e34bf0d5c7)
+ASCII art of whales.
+
 ## [worlds.txt](https://gist.github.com/rivermont/b3e92d62b1245b198278a378f4271af2)
 ASCII art of the world.
 
