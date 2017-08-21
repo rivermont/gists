@@ -14,6 +14,9 @@ My solutions to a couple of Project Euler problems.
 ## [hashthing.py](https://gist.github.com/rivermont/1af004d88638f6ff89fee547bbe2206a)
 A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into numbers?
 
+## [logger.pyw](https://gist.github.com/rivermont/7c1e43d729aec35961d13673ae73d271)
+A simple Python (2?) keylogger originally built by Tinkernut.
+
 ## [old_crawler](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
 
 ## [random.py](https://gist.github.com/rivermont/cfea7233c12dc3186adeab145bfebd37)
