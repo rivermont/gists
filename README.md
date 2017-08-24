@@ -17,7 +17,10 @@ A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into n
 ## [logger.pyw](https://gist.github.com/rivermont/7c1e43d729aec35961d13673ae73d271)
 A simple Python (2?) keylogger originally built by Tinkernut.
 
-## [old_crawler](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
+## [old-crawler.py](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
+
+## [pip-upgrade.py](https://gist.github.com/rivermont/48e03d77281681eb548ceab0457214b3)
+A simple script to update all outdated pip packages.
 
 ## [random.py](https://gist.github.com/rivermont/cfea7233c12dc3186adeab145bfebd37)
 A collection of completely random things I wrote years ago.
