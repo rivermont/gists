@@ -3,6 +3,9 @@ A list of my Gist snippets.
 
 --------------------
 
+## [copy-files.py](https://gist.github.com/rivermont/6cc91a373b6bb44fdc477d88ff46c3bb)
+A simple Python 3 script to concatenate all files in one folder into a single file.
+
 ## [countries.txt](https://gist.github.com/rivermont/78849ce62d19644ba163630c24d94afc)
 A list of all of the sovereign states, taken from Wikipedia as of 5-29-17.
 
