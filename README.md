@@ -3,9 +3,6 @@ A list of my Gist snippets.
 
 --------------------
 
-## [copy-files.py](https://gist.github.com/rivermont/6cc91a373b6bb44fdc477d88ff46c3bb)
-A simple Python 3 script to concatenate all files in one folder into a single file.
-
 ## [countries.txt](https://gist.github.com/rivermont/78849ce62d19644ba163630c24d94afc)
 A list of all of the sovereign states, taken from Wikipedia as of 5-29-17.
 
@@ -21,9 +18,7 @@ A Python 2.7 script that I wrote a few years ago. Seems to 'hash' strings into n
 A simple Python (2?) keylogger originally built by Tinkernut.
 
 ## [old-crawler.py](https://gist.github.com/rivermont/37c841295710c6d82c35f26581011eda)
-
-## [pip-upgrade.py](https://gist.github.com/rivermont/48e03d77281681eb548ceab0457214b3)
-A simple script to update all outdated pip packages.
+cript to update all outdated pip packages.
 
 ## [random.py](https://gist.github.com/rivermont/cfea7233c12dc3186adeab145bfebd37)
 A collection of completely random things I wrote years ago.
@@ -39,6 +34,6 @@ ASCII art of whales.
 
 ## [worlds.txt](https://gist.github.com/rivermont/b3e92d62b1245b198278a378f4271af2)
 ASCII art of the world.
+to zip some files.
 
-## [zip.py](https://gist.github.com/rivermont/ba873fc56a71b597c7997d371cb2effd)
-A simple script to zip some files.
+***
